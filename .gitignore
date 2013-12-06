@@ -1,0 +1,4 @@
+*.csproj
+AssemblyInfo.cs
+*.sln
+BeautifulArrays/bin/Debug/
