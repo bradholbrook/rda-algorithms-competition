@@ -2,3 +2,7 @@
 AssemblyInfo.cs
 *.sln
 BeautifulArrays/bin/Debug/
+BeautifulArrays/app.config
+BeautifulArrays/obj/Debug/BeautifulArrays.csproj.FileListAbsolute.txt
+PayForLock/obj/Debug/PayForLock.csproj.FileListAbsolute.txt
+SquareCodeVignere/obj/Debug/SquareCodeVignere.csproj.FileListAbsolute.txt
